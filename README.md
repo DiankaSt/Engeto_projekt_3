@@ -43,7 +43,7 @@ Skript:
 
 - uloží výsledky do .csv souboru.
 
-Výstupní soubor obsahuje:
+Výstupní soubor obsahuje
 
 částecný výstup:
 
