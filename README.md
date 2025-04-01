@@ -4,7 +4,7 @@ election_scraper.py je třetí projekt v rámci Engeto Online Python Akademie.
 Popis projektu
 
 Tento skript slouží ke stažení výsledků parlamentních voleb v roce 2017 z veřejného portálu volby.cz.
-Skript načte volební výsledky pro zvolený územní celek (např. okres) a uloží je do přehledného CSV souboru.
+Skript načte volební výsledky pro zvolený územní celek (např. okres) a uloží je do CSV souboru.
 
 Instalace knihoven
 
@@ -25,9 +25,9 @@ Spuštění projektu
 
 Skript se spouští z příkazové řádky a očekává dva argumenty:
 
-URL – adresa konkrétního územního celku (např. okres Praha-západ)
+- URL – adresa konkrétního územního celku (např. okres Praha-západ)
 
-název_souboru.csv – výstupní soubor pro uložení dat
+- název_souboru.csv – výstupní soubor pro uložení dat
 
 Oba argumenty musí být zadány, URL v uvozovkách, název souboru s příponou .csv
 
